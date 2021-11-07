@@ -3,6 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 ratings.csv
+config.py
 
 # C extensions
 *.so
