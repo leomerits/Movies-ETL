@@ -8,3 +8,4 @@ In this analysis, we used ETL to clean movie data files, extract the cleaned dat
 
 # Results:
 Below are the screen shots of the completed activities.
+![wiki_movies_df](https://user-images.githubusercontent.com/34757498/141688618-9ea32ee5-c7ce-4bab-acdd-82a1b40c57b2.png)
